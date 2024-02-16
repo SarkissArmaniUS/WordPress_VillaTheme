@@ -15,4 +15,6 @@ This repository contains the source code for a beautifully designed WordPress we
 
 🌟 Error handling and custom `404.php` page provide a polished user experience throughout the website.
 
+---
+
 ![screenshot](https://github.com/SarkissArmaniUS/WordPress_VillaTheme/assets/97789627/37609fab-6185-4c37-b404-d03cd1f69330)
