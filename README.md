@@ -22,3 +22,11 @@ This WordPress theme demonstrates design skills and expertise in WordPress theme
 ---
 
 ![screenshot](https://github.com/SarkissArmaniUS/WordPress_VillaTheme/assets/97789627/37609fab-6185-4c37-b404-d03cd1f69330)
+
+---
+
+![3](https://github.com/SarkissArmaniUS/WordPress_VillaTheme/assets/97789627/a061c1b0-e142-4d36-b6a4-b5ed582c8752)
+
+---
+
+![2](https://github.com/SarkissArmaniUS/WordPress_VillaTheme/assets/97789627/90ba7d18-7df2-46d6-bf24-77665dd2beb4)
